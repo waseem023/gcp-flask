@@ -1,1 +1,5 @@
-flask
+Flask[async]==3.0.3
+Flask-Cors>=5.0.0
+github3.py>=2.0.0a4
+pandas>=2.0.0
+git+https://github.com/encode/requests-async.git#egg=requests-async
