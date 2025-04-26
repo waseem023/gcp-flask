@@ -1,2 +1,2 @@
 GITHUB TOKEN - 
-URL - https://lstm-app-708210591622.us-central1.run.app
+URL - 
